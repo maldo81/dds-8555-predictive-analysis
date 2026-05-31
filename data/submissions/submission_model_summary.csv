@@ -1,7 +1,0 @@
-assignment,competition,model,local_metric,file
-A8,house-prices-advanced-regression-techniques,A8_house_gradient_boosting,RMSLE=0.1367; MAE=16114,DDS-8555 - Predictive Analysis\data\submissions\A8_house_gradient_boosting_house_prices.csv
-A8,store-sales-time-series-forecasting,A8_store_ets,family-level forecast allocated by recent store-family sales share,DDS-8555 - Predictive Analysis\data\submissions\A8_store_ets_store_sales.csv
-A8,store-sales-time-series-forecasting,A8_store_arima,family-level forecast allocated by recent store-family sales share,DDS-8555 - Predictive Analysis\data\submissions\A8_store_arima_store_sales.csv
-A8,sf-crime,A8_sf_decision_tree,Accuracy=0.2528; MacroF1=0.0736,DDS-8555 - Predictive Analysis\data\submissions\A8_sf_decision_tree_sf_crime.csv
-A8,sf-crime,A8_sf_random_forest,Accuracy=0.2629; MacroF1=0.0569,DDS-8555 - Predictive Analysis\data\submissions\A8_sf_random_forest_sf_crime.csv
-A8,sf-crime,A8_sf_linear_svm,Accuracy=0.2258; MacroF1=0.0258,DDS-8555 - Predictive Analysis\data\submissions\A8_sf_linear_svm_sf_crime.csv
